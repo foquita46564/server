@@ -1,0 +1,14 @@
+
+[DefaultRake]
+	#what do you think this does?
+	"Can rake break blocks?" = true
+	"Can rake climb?" = true
+
+[Cave]
+	"Can cave spawn" = true
+
+[BloodHourRake]
+	"can bloodhour happen?" = true
+	"bloodhour chance" = 5.0
+	"can bloodhour break blocks?" = true
+

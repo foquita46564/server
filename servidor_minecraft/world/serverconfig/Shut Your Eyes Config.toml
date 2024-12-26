@@ -1,0 +1,41 @@
+
+["Spawn Rate"]
+	#(Does not spawn naturally until after 7 in-game days) How Often The Aggressive Agony Can Spawn ( Type in these to change the spawning rarity. It goes from rarest to most common: 'ashes', 'overcooked', 'medium_rare', 'rare', 'raw', 'cow', 'grass'
+	"Spawn Rate" = "overcooked"
+
+["Stalking Chance (Stg 2)"]
+	#(Second stage of stalking - does not spawn until after 5 in-game days) How Often Agony Can Stalk You ( Type in these to change the spawning rarity. It goes from rarest to most common: 'ashes', 'overcooked', 'medium_rare', 'rare', 'raw', 'cow', 'grass'
+	"Stalking Chance (Stg 2)" = "medium_rare"
+
+["Sleep Stalk Chance"]
+	#Chance for Agony to stalk the player while they are sleeping (Minimum is 0.001)
+	"Sleep Stalk Chance" = 0.01
+
+["Play Ambient Sounds"]
+	#When set to 'true' ambient sounds from the mob will play. When set to 'false' the sounds will not play.
+	"Play Ambient Sounds" = true
+
+["Able To Kill Surrounding Entities"]
+	#Determines if the surrounding entities die when the player is paranoid
+	"Able To Kill Surrounding Entities" = true
+
+["Schizo Event Chance"]
+	#How Often Schizo Event Can Occur ( Type in these to change the spawning rarity. It goes from rarest to most common: 'ashes', 'overcooked', 'medium_rare', 'rare', 'raw', 'cow', 'grass'
+	"Schizo Event Chance" = "rare"
+
+["Cry Event Chance"]
+	#How Often The Crying Agony Can Occur ( Type in these to change the spawning rarity. It goes from rarest to most common: 'ashes', 'overcooked', 'medium_rare', 'rare', 'raw', 'cow', 'grass'
+	"Cry Event Chance" = "well_done"
+
+["Hide And Seek Event Chance"]
+	#(Does not naturally activate until 15 in-game days have passed) How Often Hide And Seek Event Can Occur ( Type in these to change the spawning rarity. It goes from rarest to most common: 'ashes', 'overcooked', 'medium_rare', 'rare', 'raw', 'cow', 'grass'
+	"Hide And Seek Event Chance" = "ashes"
+
+["Stalking Chance (Stg 1)"]
+	#How Often Agony Can Stalk You ( Type in these to change the spawning rarity. It goes from rarest to most common: 'ashes', 'overcooked', 'medium_rare', 'rare', 'raw', 'cow', 'grass)
+	"Stalking Chance (Stg 1)" = "medium_rare"
+
+["Schitzo Event"]
+	#Determines whether or not the schitzo event is able to be active.
+	"Can Play Schitzo Event" = true
+
